@@ -15,7 +15,7 @@ header, footer {
 }
 
 header {
-  font-family: Work Sans;
+  font-family: Abril-Fatface;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -33,7 +33,7 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
+  font-family: Source-Sans-Pro;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
