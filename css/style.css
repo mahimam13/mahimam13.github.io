@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #656d4a;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -47,8 +47,12 @@ font-family: 'Abril Fatface', cursive;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #656d4a;
   padding: 10px 0px 10px 10px;
+}
+
+a {
+  color: #656d4a;
 }
 
 img {
